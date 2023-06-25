@@ -1,1 +1,7 @@
 /*  your css code here. If applicable */
+.one,.three
+{
+	font-size:25px;
+	color:red;
+	display:inline;
+}
