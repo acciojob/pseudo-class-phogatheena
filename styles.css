@@ -1,7 +1,10 @@
 /*  your css code here. If applicable */
-.one,.three
+.one
 {
 	font-size:25px;
 	color:red;
-	display:none;
+}
+span{
+	font-size:18px;
+	color:black;
 }
